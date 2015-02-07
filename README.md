@@ -13,3 +13,25 @@ This is an application that helps a public speaker keep all her gigs organized. 
 ## Green Board
 * All the information above shoud appear as a "green board" when everything has been taken care of, otherwise each item will be red. 
 * Each green board will be associated with a date, (the event date)
+
+
+## Features
+
+
+
+###  Create
+Add a new gig
+
+###  Read
+list -d This will list all the gigs by date 
+list -a This will list all the gigs alphabetically
+list -f This will list all the gigs by future date
+
+###  Update
+Edit all the fields in the gig
+
+
+###  Delete
+Delete a gig
+
+
