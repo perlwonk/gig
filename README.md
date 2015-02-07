@@ -8,7 +8,7 @@ This is an application that helps a public speaker keep all her gigs organized. 
 * Invoice - Do we have enough information to create an initial invoice?
 * Travel - Has all the travel been booked and recorded?
 * Shipping - Have we recorded the all shipments where we we pay the shipping costs?  
-* Shipping - Have we recorded all the shipments where the customer is paying the shipping costs?* 
+* Shipping - Have we recorded all the shipments where the customer is paying the shipping costs?
 
 ## Green Board
 * All the information above shoud appear as a "green board" when everything has been taken care of, otherwise each item will be red. 
